@@ -125,6 +125,11 @@ Include credit utilization, spending habits, and macroeconomic indicators to ref
 
 ## **Setup Instructions**
 
+## **Dataset Information**
+
+The dataset  like `application_record.csv` is too large to be stored on GitHub.
+You can download it from: [https://-google-drive-link](https://drive.google.com/drive/folders/15alTNIE2FTSc3YQUU8Nki3hOd8Q6eNEY?usp=drive_link)
+
 ### **Install Dependencies**
 ```bash
 pip install -r requirements.txt
