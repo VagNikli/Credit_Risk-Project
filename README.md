@@ -58,7 +58,7 @@ To assess performance, we evaluated each model using:
 | **Precision** | $\frac{TP}{TP+FP}$ (How many predicted defaulters are actual defaulters) | Important for minimizing false alarms |
 | **Recall** | $\frac{TP}{TP+FN}$ (How many actual defaulters were detected) | Critical for identifying risky applicants |
 | **F1 Score** | Harmonic mean of Precision & Recall | Best balance between false positives & false negatives |
-| **ROC AUC** | Measures ability to distinguish defaults & non-defaults | Helps in selecting threshold |
+| **ROC-AUC** | Measures ability to distinguish defaults & non-defaults | Helps in selecting threshold |
 
 **Final Model Selection:**  
 - **Random Forest had the highest Recall** (best for default detection).
